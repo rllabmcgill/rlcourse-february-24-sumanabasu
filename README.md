@@ -16,4 +16,5 @@ Observation :
 * For GridWorld domain, TD(0) converges faster than MC
 
 Conclusion:
+
 Out of these two prediction algorithms, which method learns faster or which one makes the more efficient use of limited data is dependant on the environment and choice of policy
